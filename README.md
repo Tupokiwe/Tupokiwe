@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tupokiwe
-- 👀 I’m interested in software engineering, emerging technologies, machine learning , cyber security
+- 👀 I’m interested in software engineering, cyber security, emerging technologies, machine learning , IOT, AI, etc 
 - 🌱 I’m currently learning Artificial intelligence 
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: msiskatupokiwe@gmail.com
